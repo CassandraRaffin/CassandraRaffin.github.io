@@ -1,3 +1,3 @@
-functionj greet() {
-window.alert("Hello eveyone");
+function greet() {
+window.alert("Hello everyone");
 }
