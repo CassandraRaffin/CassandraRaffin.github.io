@@ -8,3 +8,48 @@ ul.navbar {
   left: 15px;
   width: 150px;
   }
+  
+ 
+  h1
+{
+    color: maroon;
+}
+
+  span
+  {
+	  color : pink;
+	  
+  }
+  
+ p1
+{
+    text-shadow: 2px 2px 4px black;
+}
+
+p2
+{
+    text-shadow: 2px 2px 4px black;
+}
+p3
+{
+    text-shadow: 2px 2px 4px maroon;
+}
+  
+   h2 {
+   text-decoration: underline;
+   }
+   
+   h2
+{
+    font-style: italic;
+}
+	   
+	   
+	h2 {
+   text-decoration: underline;
+   }
+	 
+	 h2
+{
+    font-style: italic;
+}
